@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dima-bday/static/css/main.6f59b7b5.css",
+    "main.js": "/dima-bday/static/js/main.b3f6395d.js",
+    "static/js/488.6bac2217.chunk.js": "/dima-bday/static/js/488.6bac2217.chunk.js",
+    "static/media/back-2.jpg": "/dima-bday/static/media/back-2.f798f2cc86e08a22fe03.jpg",
+    "static/media/6.jpeg": "/dima-bday/static/media/6.e427835d45c06e93c3e0.jpeg",
+    "static/media/7.jpeg": "/dima-bday/static/media/7.a5da9f3fb6e88a96d57a.jpeg",
+    "static/media/3.jpeg": "/dima-bday/static/media/3.8237dab674aa1db271b1.jpeg",
+    "static/media/4.jpeg": "/dima-bday/static/media/4.3fba3249202ec32ea463.jpeg",
+    "static/media/5.jpeg": "/dima-bday/static/media/5.3152d90d94c18326f140.jpeg",
+    "static/media/8.jpeg": "/dima-bday/static/media/8.f4cf8fa996e8a41585cc.jpeg",
+    "static/media/1.jpeg": "/dima-bday/static/media/1.1e8eeadd1d8287aed195.jpeg",
+    "static/media/2.jpeg": "/dima-bday/static/media/2.3f17a9baf5247f6d5765.jpeg",
+    "index.html": "/dima-bday/index.html",
+    "main.6f59b7b5.css.map": "/dima-bday/static/css/main.6f59b7b5.css.map",
+    "main.b3f6395d.js.map": "/dima-bday/static/js/main.b3f6395d.js.map",
+    "488.6bac2217.chunk.js.map": "/dima-bday/static/js/488.6bac2217.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f59b7b5.css",
+    "static/js/main.b3f6395d.js"
+  ]
+}
