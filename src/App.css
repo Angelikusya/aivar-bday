@@ -43,7 +43,7 @@
   align-items: center;
   border: 6px solid rgba(255, 215, 0, 0.8);
   border-radius: 20px;
-  padding: 20px;
+  padding: 20px 0;
   background: rgba(159, 30, 30, 0.9);
   box-shadow: 0px 0px 20px rgba(255, 215, 0, 0.8);
   margin-top: 20px;
@@ -76,7 +76,6 @@
 .btn-clicked {
   bottom: 10%; /* Отменяем топ, чтобы кнопка опустилась ниже */
   left: 50%;
-  transform: translateX(-50%); /* Центрируем по горизонтали */
 }
 
 .sparkle {
@@ -88,6 +87,7 @@
   font-weight: 600;
   color: #AAAAAA;
   font-size: medium;
+  max-width: 250px;
 }
 
 .btn:hover {
