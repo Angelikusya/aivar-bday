@@ -17,10 +17,10 @@ import photo14 from './assets/14.webp';
 import photo15 from './assets/15.webp';
 import Confetti from "react-confetti";
 import { useWindowSize } from "react-use";
-import back from './assets/back-1.webp'; // ковер
-// import back from './assets/back-2.webp'; // эчпочмаки
-// import back from './assets/back-3.webp'; // много фото
-// import back from './assets/back-4.webp'; // лицо
+import back1 from './assets/back-1.webp'; // ковер
+import back2 from './assets/back-2.webp'; // эчпочмаки
+import back3 from './assets/back-3.webp'; // много фото
+import back4 from './assets/back-4.webp'; // лицо
 
 const phrases = [
   { text: "Оставайся всегда на стиле и на раслабоне", image: photo1 },
@@ -40,12 +40,15 @@ const phrases = [
   { text: "Если вдруг ты снова надумаешь отращивать усы, посмотри на это фото и передумай", image: photo15 },
 ];
 
+const backgrounds = [back1, back2, back3, back4]; // Массив фонов
+
 function App() {
   const [phrase, setPhrase] = useState("");
   const [image, setImage] = useState("");
   const [showConfetti, setShowConfetti] = useState(false);
   const [loading, setLoading] = useState(false);
   const [buttonClicked, setButtonClicked] = useState(false); // Состояние для отслеживания клика
+  const [backgroundIndex, setBackgroundIndex] = useState(0); // Индекс текущего фона
   const [prevIndex, setPrevIndex] = useState(null); 
   const { width, height } = useWindowSize();
 
@@ -73,13 +76,19 @@ function App() {
     setButtonClicked(true);
   };
 
+  // Функция для изменения фона
+  const handleChangeBack = () => {
+    setBackgroundIndex((prevIndex) => (prevIndex + 1) % backgrounds.length);
+  };
+
   return (
     <div className="app-container">
       <div className="background">
-        <img src={back} alt="background" className="background-image" />
+        <img src={backgrounds[backgroundIndex]} alt="background" className="background-image" />
       </div>
       {showConfetti && <Confetti width={width} height={height} recycle={true} />} 
       <div className="content">
+        <button className="change-background" onClick={handleChangeBack}>Нажми, чтобы посмотреть другой фон</button>
         <button
           className={`btn ${buttonClicked ? "btn-clicked" : ""}`} // Добавляем класс в зависимости от клика
           onClick={handleClick}

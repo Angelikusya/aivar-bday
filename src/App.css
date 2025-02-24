@@ -108,6 +108,21 @@
   transform: scale(1.2);
 } 
 
+.change-background {
+  position: absolute;
+  top: 20px;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.4);
+  color: 000;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.change-background:hover {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
 @media screen and (max-width: 557px) {
   .message-fullscreen-image {
     max-width: 200px;
