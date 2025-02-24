@@ -55,7 +55,7 @@
   width: 300px;
   border-radius: 10px;
   max-height: 370px;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .btn {
@@ -113,7 +113,7 @@
   top: 20px;
   border: none;
   background-color: rgba(255, 255, 255, 0.4);
-  color: 000;
+  color: #000;
   border-radius: 10px;
   padding: 10px;
   cursor: pointer;
@@ -126,7 +126,7 @@
 @media screen and (max-width: 557px) {
   .message-fullscreen-image {
     max-width: 200px;
-    max-height: 300px;
+    max-height: 285px;
   }
   .message-text {
     max-width: 200px;
