@@ -2,7 +2,7 @@
   "name": "aivar-bday",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://angelikusya.github.io/dima-bday/",
+  "homepage": "https://angelikusya.github.io/aivar-bday/",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
