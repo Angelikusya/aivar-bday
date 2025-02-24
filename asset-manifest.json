@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.css": "/dima-bday/static/css/main.18f535bb.css",
-    "main.js": "/dima-bday/static/js/main.f9780dc9.js",
-    "static/js/488.6bac2217.chunk.js": "/dima-bday/static/js/488.6bac2217.chunk.js",
-    "static/media/back-2.jpg": "/dima-bday/static/media/back-2.f798f2cc86e08a22fe03.jpg",
-    "static/media/6.jpeg": "/dima-bday/static/media/6.e427835d45c06e93c3e0.jpeg",
-    "static/media/7.jpeg": "/dima-bday/static/media/7.a5da9f3fb6e88a96d57a.jpeg",
-    "static/media/3.jpeg": "/dima-bday/static/media/3.8237dab674aa1db271b1.jpeg",
-    "static/media/4.jpeg": "/dima-bday/static/media/4.3fba3249202ec32ea463.jpeg",
-    "static/media/5.jpeg": "/dima-bday/static/media/5.3152d90d94c18326f140.jpeg",
-    "static/media/8.jpeg": "/dima-bday/static/media/8.f4cf8fa996e8a41585cc.jpeg",
-    "static/media/1.jpeg": "/dima-bday/static/media/1.1e8eeadd1d8287aed195.jpeg",
-    "static/media/2.jpeg": "/dima-bday/static/media/2.3f17a9baf5247f6d5765.jpeg",
+    "main.css": "/dima-bday/static/css/main.320f7872.css",
+    "main.js": "/dima-bday/static/js/main.d7206b7c.js",
+    "static/js/488.a15a2af3.chunk.js": "/dima-bday/static/js/488.a15a2af3.chunk.js",
+    "static/media/6.webp": "/dima-bday/static/media/6.1b15ca0a4b3130197b27.webp",
+    "static/media/8.webp": "/dima-bday/static/media/8.4194f04fc669d1df6a79.webp",
+    "static/media/7.webp": "/dima-bday/static/media/7.8d6d5e3efb63ecc1bca1.webp",
+    "static/media/5.webp": "/dima-bday/static/media/5.7a3db69261621f653813.webp",
+    "static/media/2.webp": "/dima-bday/static/media/2.881226cc49b209dd43a0.webp",
+    "static/media/10.webp": "/dima-bday/static/media/10.6ecca51791dc0971cf62.webp",
+    "static/media/3.webp": "/dima-bday/static/media/3.05208def352daa66db72.webp",
+    "static/media/back-1.webp": "/dima-bday/static/media/back-1.a9648f0e78b3b54906a8.webp",
+    "static/media/9.webp": "/dima-bday/static/media/9.1880927ed0e5ecfaeb6e.webp",
+    "static/media/11.webp": "/dima-bday/static/media/11.c368e80506fd99e6e3d5.webp",
+    "static/media/12.webp": "/dima-bday/static/media/12.28da03eb2a21acdd4a95.webp",
+    "static/media/15.webp": "/dima-bday/static/media/15.0c1735ddd3a93d7cd452.webp",
+    "static/media/1.webp": "/dima-bday/static/media/1.7384e63db5f3651a7d65.webp",
+    "static/media/4.webp": "/dima-bday/static/media/4.91d28711ab6dde4fe115.webp",
+    "static/media/13.webp": "/dima-bday/static/media/13.7a70250bab7f3e81c469.webp",
+    "static/media/14.webp": "/dima-bday/static/media/14.a3800a3740049e2ff63a.webp",
     "index.html": "/dima-bday/index.html",
-    "main.18f535bb.css.map": "/dima-bday/static/css/main.18f535bb.css.map",
-    "main.f9780dc9.js.map": "/dima-bday/static/js/main.f9780dc9.js.map",
-    "488.6bac2217.chunk.js.map": "/dima-bday/static/js/488.6bac2217.chunk.js.map"
+    "main.320f7872.css.map": "/dima-bday/static/css/main.320f7872.css.map",
+    "main.d7206b7c.js.map": "/dima-bday/static/js/main.d7206b7c.js.map",
+    "488.a15a2af3.chunk.js.map": "/dima-bday/static/js/488.a15a2af3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18f535bb.css",
-    "static/js/main.f9780dc9.js"
+    "static/css/main.320f7872.css",
+    "static/js/main.d7206b7c.js"
   ]
 }
