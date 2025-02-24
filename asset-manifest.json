@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aivar-bday/static/css/main.6bae0df1.css",
+    "main.css": "/aivar-bday/static/css/main.f65bc058.css",
     "main.js": "/aivar-bday/static/js/main.9eb2c70d.js",
     "static/js/488.a15a2af3.chunk.js": "/aivar-bday/static/js/488.a15a2af3.chunk.js",
     "static/media/6.webp": "/aivar-bday/static/media/6.1b15ca0a4b3130197b27.webp",
@@ -23,12 +23,12 @@
     "static/media/back-4.webp": "/aivar-bday/static/media/back-4.fc0f3b61ebcc8a70eb83.webp",
     "static/media/back-3.webp": "/aivar-bday/static/media/back-3.59b5d478ad8ae5cb102c.webp",
     "index.html": "/aivar-bday/index.html",
-    "main.6bae0df1.css.map": "/aivar-bday/static/css/main.6bae0df1.css.map",
+    "main.f65bc058.css.map": "/aivar-bday/static/css/main.f65bc058.css.map",
     "main.9eb2c70d.js.map": "/aivar-bday/static/js/main.9eb2c70d.js.map",
     "488.a15a2af3.chunk.js.map": "/aivar-bday/static/js/488.a15a2af3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bae0df1.css",
+    "static/css/main.f65bc058.css",
     "static/js/main.9eb2c70d.js"
   ]
 }
